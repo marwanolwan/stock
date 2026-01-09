@@ -1,0 +1,5 @@
+{
+  "name": "MarketFlow AI",
+  "description": "Institutional-grade financial analysis platform combining deterministic technical indicators with AI-driven interpretation. Supports US Stocks and Forex markets.",
+  "requestFramePermissions": []
+}
